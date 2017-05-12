@@ -2,18 +2,19 @@
 layout: post
 title:  "TCP/IP协议分层模型"
 subtitle: ""
+author: "linfenliang"
 date:   2017-05-12
 header-img: "img/post-bg-tech.jpg"
+catalog:    true
 tags:
     - 学习
     - TCP/IP
-categories: 学习 读书
 ---
 
 # TCP/IP与OSI七层模型
 
 OSI参考模型与TCP/IP的关系如图所示：
-![OSI参考模型与TCP/IP的关系](img/post-images/osi-tcpip_relation_170512.jpeg)
+![OSI参考模型与TCP/IP的关系](/img/post-images/2017-05-12/osi-tcpip_relation_170512.jpeg)
 
 OSI参考模型注重通信协议必要的功能是什么
 TCP/IP强调在计算机上实现协议应该开发哪种程序
