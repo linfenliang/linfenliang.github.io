@@ -13,7 +13,7 @@ categories: 学习 读书
 # TCP/IP与OSI七层模型
 
 OSI参考模型与TCP/IP的关系如图所示：
-![OSI参考模型与TCP/IP的关系](./images/osi-tcpip_relation_170512.jpeg)
+![OSI参考模型与TCP/IP的关系](post-images/osi-tcpip_relation_170512.jpeg)
 
 OSI参考模型注重通信协议必要的功能是什么
 TCP/IP强调在计算机上实现协议应该开发哪种程序
