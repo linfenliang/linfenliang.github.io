@@ -2,11 +2,11 @@
 layout: post
 title:  "spring-data整合MongoDB代码测试"
 subtitle: ""
-date:   2017-06-09
+date:   2017-07-03
 header-img: "img/post-bg-tech.jpg"
 tags:
     - 技术学习 mongodb
-categories: 学习
+categories: study
 ---
 
 # 场景
@@ -19,8 +19,6 @@ categories: 学习
 # 准备工作
 
 # 代码实战
-
-
 
 
 # MongoDB客户端管理工具

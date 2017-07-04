@@ -6,7 +6,7 @@ date:   2017-05-24
 header-img: "img/post-bg-life.jpg"
 tags:
     - 电脑工具
-categories: 工具
+categories: tools
 ---
 
 之前安装一个绘图软件，收费，在网上找了一个破解包（事实证明是假的），结果是Mackeeper伪装的，

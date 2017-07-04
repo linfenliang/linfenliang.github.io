@@ -7,10 +7,10 @@ header-img: "img/post-bg-tech.jpg"
 tags:
     - 工作
     - mq
-categories: 工作 消息队列
+categories: work messagequeue
 ---
 
-#Docker下安装并运行rabbitmq
+# Docker下安装并运行rabbitmq
 
 
 `
@@ -28,7 +28,7 @@ sudo docker pull rabbitmq
 
 打开浏览器输入：[http://localhost:15672](http://localhost:15672)
 可以看到rabbitmq已经安装并启动起来了
-##注意
+## 注意
 注意如果运行时参数出错或想重新运行，需要删除该container，
 
 先找到该container：
@@ -45,13 +45,12 @@ sudo docker pull rabbitmq
 
 
 
-#rabbitmq基本原理
+# rabbitmq基本原理
 
 
-#在Java中调用rabbitmq
+# 在Java中调用rabbitmq
 
-#参考
+# 参考
 
 	https://hub.docker.com/_/rabbitmq/
 	http://blog.csdn.net/evankaka/article/details/50495437
-	
