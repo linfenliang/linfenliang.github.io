@@ -7,6 +7,7 @@ header-img: "img/post-bg-tech.jpg"
 tags:
     - 技术学习 spring-boot cache redis
 categories: study
+catalog:  true
 ---
 # spring cache 简介
 
