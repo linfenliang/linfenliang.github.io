@@ -59,7 +59,7 @@ duoshuo_share: false                     # set to false if you want to use Comme
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 4cc1f2d8f3067386cc5cdb626a202901
+ba_track_id: 9d67e9b9980e2237a90122ce7ac41ba4
 # Google Analytics
 ga_track_id: 'UA-49627206-11'            # Format: UA-xxxxxx-xx
 ga_domain: linfenliang.github.io

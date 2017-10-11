@@ -626,6 +626,7 @@ Exception in thread "24590 _subThread" java.lang.ClassCastException: java.util.H
 
 ```
 
+另一个问题，如果在写入时发生阻塞（可能的原因如数据构造红黑树的过程中，或其他过程），然后立即取数据，可能就取不到数据
 
 相关测试代码（可能需要多执行几次）：
 
